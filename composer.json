@@ -1,0 +1,12 @@
+{
+    "name": "killa-minda/portofolio",
+    "authors": [
+        {
+            "name": "Gaël Damour",
+            "email": "gael.damour@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "~2.0"
+    }
+}
